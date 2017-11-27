@@ -8,7 +8,7 @@
 
 $servername = "PRIVATE";
 $username = "PRIVATE";
-$password = "PRIVATE";
+$password = "PRIVATE"; 
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
